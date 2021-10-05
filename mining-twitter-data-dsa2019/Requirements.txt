@@ -1,0 +1,1 @@
+RequirementsTwitter mining1. Python 2.7 or above2. Jupyter notebook3. Twitter account4. Twitter API set up Libraries;1. Python-twitter 2. Numpy  3.  Pandas4.  Tweepy5.  Json6. 
